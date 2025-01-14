@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on [Data Analytics and Visualization Projects](https://github.com/vinayakdon/Ecommerce-store-sales-dashboard)
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-psi-dusky-87.vercel.app/](https://my-portfolio-psi-dusky-87.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Link](https://my-portfolio-psi-dusky-87.vercel.app/)
 
 - 💬 Ask me about **Python for Data Science,Machine Learning,Power BI dashboards and Conversational AI**
 
-- 📫 How to reach me **Email: vinayakdon25@gmail.com LinkedIn: https://www.linkedin.com/in/vinayak-donawad-a018171b8/**
+- 📫 How to reach me **Email: vinayakdon25@gmail.com LinkedIn: [Link](https://www.linkedin.com/in/vinayak-donawad-a018171b8/)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18FbJAWHniIk_SHHmwdNNY_IXGqTdR_RW/view?usp=drive_link](https://drive.google.com/file/d/18FbJAWHniIk_SHHmwdNNY_IXGqTdR_RW/view?usp=drive_link)
+- 📄 Know about my experiences [Resume link](https://drive.google.com/file/d/18FbJAWHniIk_SHHmwdNNY_IXGqTdR_RW/view?usp=drive_link)
 
 - ⚡ Fun fact **I love turning data into insights and building intelligent solutions.**
 
