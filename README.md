@@ -11,7 +11,7 @@
 ### 👨‍💻 About me
 
 - 🤖 Building AI systems — LLM pipelines, RAG applications, NLP models, and conversational AI
-- 🏢 1+ years at **HCLTech** — designed and deployed chatbots handling thousands of real user queries in production
+- 🏢 1.5+ years at **HCLTech** — designed and deployed chatbots handling thousands of real user queries in production
 - 🎓 MSc Data Science @ **University of Europe for Applied Sciences, Berlin** (graduating Sep 2026)
 - ☁️ Hands-on with **AWS** (S3, Glue, Athena) — built ETL pipelines processing 500K+ records
 - 📊 Built **Power BI** dashboards used by business stakeholders for procurement decisions
