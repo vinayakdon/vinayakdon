@@ -25,6 +25,7 @@
 | Project | Stack | What it does |
 |---|---|---|
 | 🔗 [Ecommerce Sales Dashboard](https://github.com/vinayakdon/Ecommerce-store-sales-dashboard) | Power BI, DAX | Interactive sales KPI dashboard with drill-down by region and category |
+| 🔗 [RAG Based shedular](https://github.com/vinayakdon/RAG-scheduler) | Lanchain, Nodejs, Reactjs, Ollma, Vector Databases| Personal Gym shedule shedular|
 | 🔗 [Sentiment Classifier](https://github.com/vinayakdon) | Python, scikit-learn, NLP | ML model classifying customer sentiment from text data |
 | 🔗 [Portfolio](https://my-portfolio-psi-dusky-87.vercel.app/) | React, Tailwind | Personal portfolio showcasing projects and experience |
 
